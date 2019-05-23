@@ -39,7 +39,7 @@ It's a restroom, in accordance with fire codes. There is nothing here.
 A very dark room. It seems suspicious, but there isn't really anything here.
 
 ## Closet
-There's a bunch of hi-vis vests in here. They each give +5 to Charisma. (They're that good.)
+There's a bunch of hi-vis vests in here. They each give +5 to Charisma. (People just trust you when you wear a vest.)
 
 ## Chemicals
 The outside door to this room has a hazard diamond on it.
@@ -51,10 +51,10 @@ White => OX
 ```
 On an INT check (DC 12) they can learn that Blue is health, Red is flammability, Yellow is reactivity, and White OX means it's an oxidizer (it helps fires burn).
 
-Inside there's a bunch of chlorine tanks, including two so tall they reach through the ceiling. On the side opposite the door, there's a few employees on a couch playing Super Smash Bros: Mike, Bob, and Jessica. None of them could probably be moved to get off the couch. Jessica has a keycard on her badge. 
+Inside there's a bunch of chlorine tanks, including two so tall they reach through the ceiling. On the side opposite the door, there's a few employees on a couch playing Super Smash Bros: Mike, Bob, and Jessica. None of them really want to stop playing. Jessica has a keycard on her badge. 
 
 ## Stairwells
-There's two stairwells. They let you get to the next floor with 5 squares of movement.
+There's two stairwells. Spending 5 squares of movement while on one moves you to up or down one story.
 
 ## More Chemicals
 Similar to the first Chemicals room. In the back, there's a post-it note stuck on one of the chemical drums that says `Password for the doors is opposite` on one side and `"Root Sun", all one word, no caps` on the other. (The password is `squaremoon`, the opposite of Root and Sun. This was stolen wholesale from The Mysterious Benedict Society.)
@@ -90,7 +90,7 @@ Your players start the mission with the following items, which they may distribu
 |Item|Description|
 |---|---|
 |Water Quality Bug|Part of your objective. Plant it on the main computer in the water plant. Takes 10 turns to install.|
-|Card Copier|After standing in the same square as an electronic card for 3 seconds, there's a 50% chance it gets copied.|
+|Card Copier|The user can turn it on and off at will (no actions). When it's on, if the user stands within 5 feet (an adjacent square) to a keycard, there's a 50% chance the card gets copied. The user *does not know* whether it succeeds without trying it.|
 |Lock Shim|A surprising number of doors are vulnerable to just slipping a shim through the jamb and opening the bolt. Gives a +5 to checks made to unlock vulnerable doors (marked with a curved line). Looks like a screwdriver with a curved hook on the end.|
 
 # NPCs

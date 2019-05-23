@@ -57,14 +57,13 @@ Biff is walking around the outside of the building clockwise. Ted is supposed to
 Neither of them are very smart. Turning on and off the lights will probably distract them from the players' presence.
 
 They both have the same stats:
+
 |Stat|Amount|
 |---|---|
 |DEX|3|
 |STR|4|
 |INT|1|
 |CHA|3|
-||
-|SPD|
 
 # Hacking
 The hacker starts on network DTX:Climate.
